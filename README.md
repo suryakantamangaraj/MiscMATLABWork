@@ -1,2 +1,2 @@
 # MiscMATLABWork
-To store misc codes. for different projects
+To store misc codes for different projects
